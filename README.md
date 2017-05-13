@@ -1,0 +1,2 @@
+# sitemap
+Riyanblog js sitemap
